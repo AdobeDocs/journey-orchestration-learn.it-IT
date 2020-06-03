@@ -4,14 +4,15 @@ description: In questo video viene illustrato come configurare schemi e set di d
 feature: Journey Orchestration
 topics: Events
 kt: 3731
+thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
