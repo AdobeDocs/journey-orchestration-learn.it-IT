@@ -4,14 +4,15 @@ description: Il video illustra come configurare un'azione per l'orchestrazione d
 feature: Journey Orchestration
 topics: Custom Actions
 kt: 2775
+thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
