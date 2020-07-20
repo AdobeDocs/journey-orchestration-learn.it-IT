@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
+source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 # Generazione di eventi dei passaggi per [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] invia automaticamente i dati sulle prestazioni del viaggio al [!UICONTROL Adobe Experience Platform] fine di poterli combinare con altri dati a scopo di analisi.
-Il seguente video spiega cosa [!UICONTROL journey step events] sono e quali [!UICONTROL data steps] vengono creati automaticamente [!UICONTROL Experience Platform ]e come esplorarli.
+Il seguente video spiega cosa [!UICONTROL journey step events] sono e quali [!UICONTROL data steps] vengono creati automaticamente [!UICONTROL Experience Platform] e come esplorarli.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
