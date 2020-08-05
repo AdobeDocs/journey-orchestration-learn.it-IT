@@ -1,6 +1,6 @@
 ---
-title: 'Segnalazione degli eventi delle fasi di viaggio a  Adobe Experience Platform '
-description: Questa esercitazione spiega come navigare nel reporting per il viaggio, come personalizzare gli intervalli di date per il rapporto e come salvare un modello di rapporto per un utilizzo futuro.
+title: 'Generazione di rapporti sugli eventi delle fasi del viaggio in Adobe Experience Platform '
+description: Il seguente video spiega cosa sono gli eventi dei passaggi di viaggio e quali passaggi di dati vengono creati automaticamente  Experience Platform e come esplorarli.
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 6%
 
 ---
 
@@ -26,5 +26,5 @@ Il seguente video spiega cosa [!UICONTROL journey step events] sono e quali [!UI
 
 ## Risorse aggiuntive
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-* [Panoramica sulla condivisione delle fasi del viaggio](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
+* [Centro](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)assistenza Journey Orchestration:
+* [Panoramica sulla condivisione delle fasi del percorso](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
