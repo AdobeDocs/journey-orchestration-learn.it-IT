@@ -1,68 +1,72 @@
 ---
-title: Tutorials Journey Orchestration - Panoramica
-description: Il Journey Orchestration consente di creare casi di utilizzo di orchestrazione in tempo reale sfruttando i dati contestuali memorizzati in eventi o origini dati
+title: Tutorial su Journey Orchestration - Panoramica
+description: Journey Orchestration consente di generare casi d’uso di orchestrazione in tempo reale sfruttando i dati contestuali archiviati in eventi o origini dati
 products: Journey orchestration
 translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 80%
 
 ---
 
 
 # Panoramica
 
-[!UICONTROL Journey Orchestration] è un servizio di applicazione integrato con l&#39;Adobe Experience Platform. Consente di creare casi di utilizzo di orchestrazione in tempo reale sfruttando i dati contestuali memorizzati in eventi o origini dati.
+[!UICONTROL Journey Orchestration] è un servizio di applicazione integrato con Adobe Experience Platform. Consente di generare casi di utilizzo di orchestrazione in tempo reale, sfruttando i dati contestuali archiviati in eventi o origini dati.
 
 ## Novità
 
-* **[Generazione di rapporti sugli eventi delle fasi del viaggio in Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+* **[Reporting degli eventi delle fasi del percorso a Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**
+
+   <br>
    *Scopri cosa sono gli eventi dei passaggi di viaggio e quali passaggi di dati vengono creati automaticamente  Experience Platform e come esplorarli.*
-* **[Utilizzo degli eventi di qualificazione dei segmenti](/help/using-segment-qualification-events.md)**   <br>
+* **[Utilizzo degli eventi di qualificazione dei segmenti](/help/using-segment-qualification-events.md)**
+
+   <br>
    *Questo video offre una breve introduzione su come creare un percorso con un evento Qualifica segmento come punto di ingresso o di uscita.*
 
-## Picchi di personale
+## Scelte del personale
 
 <table>
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="Informazioni sul Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Comprensione di Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Informazioni sul Journey Orchestration</strong>
+    <strong>Comprensione di Journey Orchestration</strong>
     </a>
     </div>
     <p>
-    <em>Comprendere il concetto di Journey Orchestration, i tipi di casi di utilizzo che consente e gli elementi chiave del funzionamento del Journey Orchestration.</em>
+    <em>Comprendere il concetto di Journey Orchestration, i tipi di casi d’uso che consente e gli elementi chiave del suo funzionamento.</em>
     <p>
   </td>
   <td>
     <a href="./create-a-journey.md">
-        <img alt="Creare un viaggio (video)" src="./assets/journey34.png"/>
+        <img alt="Creare un percorso (video)" src="./assets/journey34.png"/>
     </a>
     <div>
       <a href="./create-a-journey.md">
-    <strong>Creare un viaggio (video)</strong>
+    <strong>Creare un percorso (video)</strong>
     </a>
     </div>
     <p>
-    <em>Scopri come creare un nuovo percorso, iniziare con un evento, utilizzare le orchestrazioni per controllare il flusso e i tempi di un viaggio e utilizzare le azioni per interagire con i punti del viaggio.</em>
+    <em>Scopri come creare un nuovo percorso, inizia con un evento, utilizza le orchestrazioni per controllare il flusso e la tempistica di un percorso e utilizza le azioni per interagire con i punti del percorso.</em>
     <p>
   </td>
   <td>
    <a href="./analyze-a-journey-via-reporting-tools.md">
-      <img alt="Analisi di un viaggio tramite strumenti di reporting" src="./assets/dynamic_report_journey_8.png" />
+      <img alt="Analizzare un percorso tramite Strumenti di reporting" src="./assets/dynamic_report_journey_8.png" />
     </a>
     <div>
       <a href="./analyze-a-journey-via-reporting-tools.md">
-    <strong>Analisi di un viaggio tramite strumenti di reporting</strong>
+    <strong>Analizzare un percorso tramite Strumenti di reporting</strong>
     </a>
     </div>
     <p>
-    <em>Scopri come navigare nel reporting per il tuo viaggio, come personalizzare gli intervalli di date per il rapporto e come salvare un modello di rapporto per un utilizzo futuro. </em>
+    <em>Scopri come passare al reporting per il tuo percorso, come personalizzare intervalli di date per il tuo reporting e come salvare un modello di reporting per utilizzi futuri. </em>
     <p>
   </td>
 </tr>
@@ -70,6 +74,6 @@ ht-degree: 2%
 
 ## Risorse aggiuntive
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Tutorials Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Centro Risorse Journey Orchestration](https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html)
+* [Tutorial su Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
