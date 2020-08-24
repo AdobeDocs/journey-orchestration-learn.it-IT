@@ -1,6 +1,6 @@
 ---
-title: Journey Orchestration
-description: Comprendere il concetto di Journey Orchestration, i tipi di casi di utilizzo consentiti e gli elementi chiave del funzionamento di Journey Orchestration.
+title: Comprensione di Journey Orchestration
+description: Comprendere il concetto di Journey Orchestration, i tipi di casi d’uso che consente e gli elementi chiave del suo funzionamento.
 feature: Journey Orchestration
 topics: Introduction
 kt: 2773
@@ -8,53 +8,53 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '326'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Informazioni [!UICONTROL Journey Orchestration]
+# Comprensione di [!UICONTROL Journey Orchestration]
 
 ## Introduzione a [!UICONTROL Journey Orchestration]
 
-[!UICONTROL Journey Orchestration] consente di creare casi di utilizzo orchestrazione in tempo reale utilizzando i dati contestuali memorizzati in eventi o origini dati.
+[!UICONTROL Journey Orchestration] consente di generare casi di utilizzo di orchestrazione in tempo reale, sfruttando i dati contestuali archiviati negli eventi o nelle origini dati.
 
-[!UICONTROL Journey Orchestration] è un servizio di applicazione integrato con il Adobe Experience Platform . Offre un ecosistema intelligente e aperto per attivare tutti i dati live pertinenti attraverso un coinvolgimento scalabile basato su eventi su qualsiasi canale richiesto dalla vostra azienda, dal marketing alle operazioni di assistenza. [!UICONTROL Journey Orchestration] è in grado di sfruttare qualsiasi dato proveniente dal Adobe Experience Platform  e da qualsiasi sistema di distribuzione esterno per creare e distribuire esperienze coinvolgenti.
+[!UICONTROL Journey Orchestration] è un servizio di applicazione integrato con Adobe Experience Platform. Fornisce un ecosistema intelligente e aperto per attivare tutti i dati dinamici pertinenti attraverso un impegno scalabile basato su eventi, su qualsiasi canale richiesto dalla tua azienda, dal marketing alle operazioni ai servizi. [!UICONTROL Journey Orchestration] è in grado di sfruttare qualsiasi dato proveniente da Adobe Experience Platform e da qualsiasi sistema di consegna esterno per creare e consegnare esperienze irresistibili.
 
 Il video seguente introduce
 
 * Il concetto di [!UICONTROL Journey Orchestration]
-* Tipi di casi di utilizzo che consente
-* Gli elementi chiave del [!UICONTROL Journey Orchestration] funzionamento
+* Tipi di casi d’uso che consente
+* Elementi chiave del funzionamento di [!UICONTROL Journey Orchestration]
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=ita)
 
 ## Come configurare un percorso
 
-Le principali fasi di preparazione per i viaggi di costruzione sono:
+Principali fasi di preparazione per generare percorsi:
 
-1. [Configura eventi](/help/configuring-journey-orchestration/configure-streaming-events.md) di streaming - Questa configurazione è obbligatoria, in quanto [!UICONTROL Journey Orchestration] è progettata per ascoltare gli eventi.
-1. [Configurare Origini](/help/configuring-journey-orchestration/configure-data-sources.md) dati - Questa configurazione non è necessaria se i viaggi sfruttano solo i dati locali provenienti da un payload di eventi.
-1. [Configura azioni](/help/configuring-journey-orchestration/configure-actions.md)personalizzate: Obbligatorio se si desidera utilizzare un servizio di qualsiasi provider di terze parti che può essere chiamato tramite un [!DNL REST API] payload formattato JSON
+1. [Configurare eventi di streaming](/help/configuring-journey-orchestration/configure-streaming-events.md): questa configurazione è obbligatoria, in quanto [!UICONTROL Journey Orchestration] è progettato per ascoltare gli eventi.
+1. [Configurare origini dati](/help/configuring-journey-orchestration/configure-data-sources.md): questa configurazione non è necessaria se i percorsi sfruttano solo i dati locali provenienti da un payload dell’evento.
+1. [Configurare azioni personalizzate](/help/configuring-journey-orchestration/configure-actions.md): necessario se si desidera utilizzare un servizio di qualsiasi provider di terze parti che può essere chiamato tramite un [!DNL REST API] con un payload in formato JSON
 
 >[!NOTE]
 >
->Questi passaggi di configurazione richiedono conoscenze tecniche. Sarà necessario avere familiarità con il modello dati [esperienza (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) e [come comporre gli schemi](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)eventi esperienza XDM.
+>Questi passaggi di configurazione richiedono conoscenze tecniche. Sarà necessario avere familiarità con [Experience Data Model (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) e sapere [come comporre gli schemi experience event XDM](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
 
-## Come creare, pubblicare e analizzare un percorso
+## Creazione, pubblicazione e analisi di un percorso
 
-1. [Crea un viaggio](/help/create-a-journey.md)
-1. [Convalida e pubblicazione di un percorso](/help/validate-and-publish-a-journey.md)
-1. [Analizzare un viaggio mediante gli strumenti di reporting](/help/analyze-a-journey-via-reporting-tools.md)
+1. [Creare un percorso](/help/create-a-journey.md)
+1. [Convalidare e pubblicare un percorso](/help/validate-and-publish-a-journey.md)
+1. [Analizzare un percorso tramite strumenti di reporting](/help/analyze-a-journey-via-reporting-tools.md)
 
 ## Risorse aggiuntive
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Esercitazioni  Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
-* [Come trovare aiuto con Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [SDK per dispositivi mobili  Adobe Experience Platform - Lancio](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
-* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)
+* [Centro Risorse Journey Orchestration](https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html)
+* [Tutorial su Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Come trovare la guida con Journey Orchestration](/help/understanding-journey-orchestration.md)
+* [Adobe Experience Platform Mobile SDK - Avvio](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.translate.html)
