@@ -2,9 +2,9 @@
 title: Tutorial su Journey Orchestration - Panoramica
 description: Journey Orchestration consente di generare casi d’uso di orchestrazione in tempo reale sfruttando i dati contestuali archiviati in eventi o origini dati
 products: Journey orchestration
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
 ht-degree: 100%
 
