@@ -5,14 +5,14 @@ user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-lea
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
 tutorials-title: Tutorial
-tutorials-url: https://docs.adobe.com/content/help/it-IT/journey-orchestration-learn/tutorials/overview.translate.html
+tutorials-url: https://docs.adobe.com/content/help/it-IT/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Centro Risorse
 getting-started-url: https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
