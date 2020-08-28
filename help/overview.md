@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 80%
 * **[Reporting degli eventi delle fasi del percorso a Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *Scopri cosa sono gli eventi dei passaggi di viaggio e quali passaggi di dati vengono creati automaticamente  Experience Platform e come esplorarli.*
+   *Scopri cosa sono gli eventi delle fasi del percorso, quali fasi di dati vengono create automaticamente in Experience Platform e come esplorarle.*
 * **[Utilizzo degli eventi di qualificazione dei segmenti](/help/using-segment-qualification-events.md)**
 
    <br>
-   *Questo video offre una breve introduzione su come creare un percorso con un evento Qualifica segmento come punto di ingresso o di uscita.*
+   *Questo video offre una breve introduzione su come creare un percorso con un evento di qualificazione dei segmenti come punto di ingresso o di uscita.*
 
 ## Scelte del personale
 
