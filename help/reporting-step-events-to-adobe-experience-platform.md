@@ -1,6 +1,6 @@
 ---
-title: 'Generazione di rapporti sugli eventi delle fasi del viaggio in Adobe Experience Platform '
-description: Il seguente video spiega cosa sono gli eventi dei passaggi di viaggio e quali passaggi di dati vengono creati automaticamente  Experience Platform e come esplorarli.
+title: 'Reporting degli eventi delle fasi del percorso ad Adobe Experience Platform '
+description: Il video seguente illustra cosa sono gli eventi delle fasi del percorso, quali fasi di dati vengono create automaticamente in Experience Platform e come esplorarle.
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -8,23 +8,23 @@ thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Generazione di eventi dei passaggi per [!UICONTROL Adobe Experience Platform ]
+# Reporting degli eventi ad [!UICONTROL Adobe Experience Platform ]
 
-[!UICONTROL Journey Orchestration] invia automaticamente i dati sulle prestazioni del viaggio al [!UICONTROL Adobe Experience Platform] fine di poterli combinare con altri dati a scopo di analisi.
-Il seguente video spiega cosa [!UICONTROL journey step events] sono e quali [!UICONTROL data steps] vengono creati automaticamente [!UICONTROL Experience Platform] e come esplorarli.
+[!UICONTROL Journey Orchestration] invia automaticamente i dati sulle prestazioni del percorso ad [!UICONTROL Adobe Experience Platform] in modo che possano essere combinati con altri dati a scopo di analisi.
+Il video seguente spiega cosa sono gli [!UICONTROL journey step events], quali [!UICONTROL data steps] vengono create automaticamente in [!UICONTROL Experience Platform] e come esplorarle.
 
->[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&captions=ita)
 
 ## Risorse aggiuntive
 
-* [Centro](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)assistenza Journey Orchestration:
-* [Panoramica sulla condivisione delle fasi del percorso](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
+* [Centro Risorse di Journey Orchestration](https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html):
+* [Panoramica sulla condivisione delle fasi del percorso](https://docs.adobe.com/content/help/it-IT/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
