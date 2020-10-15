@@ -1,6 +1,6 @@
 ---
-title: Configurare gli eventi di streaming per Adobe Journey Orchestration
-description: Questo video spiega come configurare schemi XDM e set di dati per gli eventi Journey Orchestration, definire un evento in Journey Orchestration e configurare i sistemi di origine per lo streaming degli eventi
+title: Configurare gli eventi di streaming per  Journey Orchestration Adobe
+description: In questo video viene illustrato come configurare schemi e set di dati XDM per gli eventi di Journey Orchestration, definire un evento in Journey Orchestration e configurare i sistemi di sorgenti per lo streaming degli eventi
 feature: Journey Orchestration
 topics: Events
 kt: 3731
@@ -11,20 +11,20 @@ activity: setup
 translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Configurare gli eventi di streaming
+# Configurare eventi di streaming
 
 [!UICONTROL Journey Orchestration] ascolta gli eventi e organizza le azioni successive migliori nel percorso del cliente in base a tali eventi. Un evento può essere correlato a:
 
 * le azioni dirette di un individuo (ad esempio, ha acquistato un prodotto, ha visitato un negozio o ha abbandonato un carrello online), oppure
 * Qualcosa che è accaduto e che è collegato all&#39;individuo (ad es., a che hanno raggiunto 10.000 punti fedeltà)
 
-[!UICONTROL Journey Orchestration] gli eventi vengono [!UICONTROL XDM experience events] inviati al Adobe Experience Platform  tramite [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] gli eventi vengono [!UICONTROL XDM experience events] inviati all&#39;Adobe Experience Platform tramite [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -35,13 +35,13 @@ ht-degree: 1%
 >* [Streaming dei dati](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-Per comprendere gli esempi utilizzati nel video, è necessario acquisire familiarità con i seguenti servizi di Adobe Experience Platform :
+Per comprendere gli esempi utilizzati nel video, è necessario acquisire familiarità con i seguenti Adobe Experience Platform Services:
 >
->* [SDK per dispositivi mobili  Adobe Experience Platform - Lancio](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)
+>* [Adobe Experience Platform Mobile SDK - Avvio](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.translate.html)
 
 
-## Come configurare [!UICONTROL streaming events]
+## How to configure [!UICONTROL streaming events]
 
 Il seguente video spiega come:
 
@@ -53,5 +53,5 @@ Il seguente video spiega come:
 
 ## Risorse aggiuntive
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+* [Centro Risorse di Journey Orchestration](https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html):
    * [Informazioni sugli eventi](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
