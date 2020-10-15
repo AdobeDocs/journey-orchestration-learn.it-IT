@@ -1,7 +1,7 @@
 ---
 product: journey orchestration
 user-guide-title: Tutorial su Journey Orchestration
-user-guide-description: Learn how to configure, create, publish, and analyze a journey.
+user-guide-description: Scopri come configurare, creare, pubblicare e analizzare un percorso.
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/journey-orchestration-l
 getting-started-title: Centro Risorse
 getting-started-url: https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html
 type: Tutorial
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7c975de38ccd3ab724bafd8d53118eb092b844fe
-workflow-type: ht
-source-wordcount: '80'
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
