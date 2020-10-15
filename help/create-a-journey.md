@@ -8,11 +8,11 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Il video seguente spiega come:
 * Utilizza i comandi di [!UICONTROL Orchestration] per controllare il flusso e la tempistica di un percorso
 * Utilizza le azioni per interagire con i punti del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## Risorse aggiuntive
 
