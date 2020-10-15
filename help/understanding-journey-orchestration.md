@@ -8,11 +8,11 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
-workflow-type: ht
-source-wordcount: '326'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ Il video seguente introduce
 * Tipi di casi d’uso che consente
 * Elementi chiave del funzionamento di [!UICONTROL Journey Orchestration]
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
 
 ## Come configurare un percorso
 
