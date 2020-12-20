@@ -24,7 +24,7 @@ ht-degree: 36%
 * le azioni dirette di un individuo (ad esempio, ha acquistato un prodotto, ha visitato un negozio o ha abbandonato un carrello online), oppure
 * Qualcosa che è accaduto e che è collegato all&#39;individuo (ad es., a che hanno raggiunto 10.000 punti fedeltà)
 
-[!UICONTROL Journey Orchestration] gli eventi vengono [!UICONTROL XDM experience events] inviati all&#39;Adobe Experience Platform tramite [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] gli eventi vengono  [!UICONTROL XDM experience events] inviati all&#39;Adobe Experience Platform tramite  [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Per comprendere gli esempi utilizzati nel video, è necessario acquisire familia
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.translate.html)
 
 
-## How to configure [!UICONTROL streaming events]
+## Come configurare [!UICONTROL streaming events]
 
 Il seguente video spiega come:
 
-* Configurare gli schemi XDM e i set di dati per [!UICONTROL Journey Orchestration] gli eventi
+* Configurare gli schemi e i set di dati XDM per gli eventi [!UICONTROL Journey Orchestration]
 * Definire un evento in [!UICONTROL Journey Orchestration]
 * Configurare i sistemi di origine per lo streaming degli eventi
 
