@@ -8,9 +8,9 @@ thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 [!UICONTROL Journey Orchestration] invia automaticamente i dati sulle prestazioni del percorso ad [!UICONTROL Adobe Experience Platform] in modo che possano essere combinati con altri dati a scopo di analisi.
 Il video seguente spiega cosa sono gli [!UICONTROL journey step events], quali [!UICONTROL data steps] vengono create automaticamente in [!UICONTROL Experience Platform] e come esplorarle.
 
->[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
 ## Risorse aggiuntive
 
