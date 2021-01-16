@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/journey-orchestration-l
 getting-started-title: Centro Risorse
 getting-started-url: https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 95%
+ht-degree: 92%
 
 ---
 
