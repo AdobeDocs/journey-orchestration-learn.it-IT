@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/journey-orchestration-l
 getting-started-title: Centro Risorse
 getting-started-url: https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,9 @@ ht-degree: 100%
 + [Utilizzo degli eventi di qualificazione dei segmenti](/help/using-segment-qualification-events.md)
 + [Configurare origini dati](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configurare azioni](/help/configuring-journey-orchestration/configure-actions.md)
-+ [Creare un percorso](/help/create-a-journey.md)
++ Creare un percorso {#building-a-journey}
+   + [Creazione di un percorso](/help/building-a-journey/creating-a-journey.md)
+   + [Passaggio a un altro percorso](/help/building-a-journey/jumping-to-another-journey.md)
 + [Convalidare e pubblicare un percorso](/help/validate-and-publish-a-journey.md)
 + [Analisi di un percorso mediante strumenti di reporting](/help/analyze-a-journey-via-reporting-tools.md)
 + [Reporting degli eventi delle fasi del percorso a Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
