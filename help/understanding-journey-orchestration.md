@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
@@ -47,7 +47,7 @@ Principali fasi di preparazione per generare percorsi:
 
 ## Creazione, pubblicazione e analisi di un percorso
 
-1. [Creare un percorso](/help/create-a-journey.md)
+1. [Creare un percorso](/help/building-a-journey/creating-a-journey.md)
 1. [Convalidare e pubblicare un percorso](/help/validate-and-publish-a-journey.md)
 1. [Analizzare un percorso tramite strumenti di reporting](/help/analyze-a-journey-via-reporting-tools.md)
 
