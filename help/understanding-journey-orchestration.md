@@ -8,10 +8,10 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '326'
+workflow-type: tm+mt
+source-wordcount: '328'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 [!UICONTROL Journey Orchestration] consente di generare casi di utilizzo di orchestrazione in tempo reale, sfruttando i dati contestuali archiviati negli eventi o nelle origini dati.
 
-[!UICONTROL Journey Orchestration] è un servizio di applicazione integrato con Adobe Experience Platform. Fornisce un ecosistema intelligente e aperto per attivare tutti i dati dinamici pertinenti attraverso un impegno scalabile basato su eventi, su qualsiasi canale richiesto dalla tua azienda, dal marketing alle operazioni ai servizi. [!UICONTROL Journey Orchestration] è in grado di sfruttare qualsiasi dato proveniente da Adobe Experience Platform e da qualsiasi sistema di consegna esterno per creare e consegnare esperienze irresistibili.
+[!UICONTROL Journey Orchestration] è un servizio applicativo integrato con Adobe Experience Platform. Fornisce un ecosistema intelligente e aperto per attivare tutti i dati dinamici pertinenti attraverso un impegno scalabile basato su eventi, su qualsiasi canale richiesto dalla tua azienda, dal marketing alle operazioni ai servizi. [!UICONTROL Journey Orchestration] è in grado di sfruttare qualsiasi dato proveniente da Adobe Experience Platform e da qualsiasi sistema di consegna esterno per creare e consegnare esperienze irresistibili.
 
 Il video seguente introduce
 
@@ -31,7 +31,7 @@ Il video seguente introduce
 * Tipi di casi d’uso che consente
 * Elementi chiave del funzionamento di [!UICONTROL Journey Orchestration]
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
 
 ## Come configurare un percorso
 
