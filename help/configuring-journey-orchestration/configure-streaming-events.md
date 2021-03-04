@@ -1,41 +1,42 @@
 ---
-title: Configurare gli eventi di streaming per  Journey Orchestration Adobe
-description: In questo video viene illustrato come configurare schemi e set di dati XDM per gli eventi di Journey Orchestration, definire un evento in Journey Orchestration e configurare i sistemi di sorgenti per lo streaming degli eventi
-feature: Journey Orchestration
+title: Configurare eventi di streaming per Adobe Journey Orchestration
+description: '"Scopri come configurare schemi e set di dati XDM per gli eventi di Journey Orchestration, definire un evento in Journey Orchestration e configurare i sistemi di origine per lo streaming degli eventi"'
+feature: Origini dati, eventi, schemi
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: Amministratore
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '256'
+ht-degree: 25%
 
 ---
 
 
 # Configurare eventi di streaming
 
-[!UICONTROL Journey Orchestration] ascolta gli eventi e organizza le azioni successive migliori all&#39;interno del percorso del cliente in base a tali eventi. Un evento può essere correlato a:
+[!UICONTROL Journey Orchestration] ascolta gli eventi e orchestra le migliori azioni successive nel percorso del cliente in base a questi eventi. Un evento può riferirsi a:
 
 * le azioni dirette di un individuo (ad esempio, ha acquistato un prodotto, ha visitato un negozio o ha abbandonato un carrello online), oppure
-* Qualcosa che è accaduto e che è collegato all&#39;individuo (ad es., a che hanno raggiunto 10.000 punti fedeltà)
+* Qualcosa che è successo che è collegato all&#39;individuo (ad esempio, quando hanno raggiunto 10.000 punti fedeltà)
 
-[!UICONTROL Journey Orchestration] gli eventi vengono  [!UICONTROL XDM experience events] inviati all&#39;Adobe Experience Platform tramite  [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] vengono inviati  [!UICONTROL XDM experience events] ad Adobe Experience Platform tramite  [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
 >Sarà necessario avere familiarità con:
 >
->* [Il modello dati esperienza (XDM)](https://docs.adobe.com/content/help/it-IT/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [Come comporre gli schemi XDM per gli eventi esperienza](https://docs.adobe.com/content/help/it-IT/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
->* [Streaming dei dati](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
+>* [Experience Data Model (XDM)](https://docs.adobe.com/content/help/it-IT/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+>* [Come comporre gli schemi XDM per gli eventi di esperienza](https://docs.adobe.com/content/help/it-IT/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+>* [Acquisizione dei dati in streaming](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-Per comprendere gli esempi utilizzati nel video, è necessario acquisire familiarità con i seguenti Adobe Experience Platform Services:
+Per comprendere gli esempi utilizzati nel video, devi anche acquisire familiarità con i seguenti servizi Adobe Experience Platform:
 >
 >* [Adobe Experience Platform Mobile SDK - Avvio](https://docs.adobe.com/content/help/it-IT/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.translate.html)
@@ -43,9 +44,9 @@ Per comprendere gli esempi utilizzati nel video, è necessario acquisire familia
 
 ## Come configurare [!UICONTROL streaming events]
 
-Il seguente video spiega come:
+Il video seguente spiega come:
 
-* Configurare gli schemi e i set di dati XDM per gli eventi [!UICONTROL Journey Orchestration]
+* Configurare schemi e set di dati XDM per gli eventi [!UICONTROL Journey Orchestration]
 * Definire un evento in [!UICONTROL Journey Orchestration]
 * Configurare i sistemi di origine per lo streaming degli eventi
 
