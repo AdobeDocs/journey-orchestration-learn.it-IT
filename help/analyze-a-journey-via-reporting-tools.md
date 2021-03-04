@@ -1,18 +1,19 @@
 ---
 title: Analizzare un percorso tramite strumenti di reporting
-description: Questo tutorial spiega come passare al reporting per il tuo percorso, come personalizzare intervalli di date per il reporting e come salvare un modello di reporting per utilizzi futuri.
-feature: Journey Orchestration
+description: '"Scopri come passare al reporting per il tuo percorso, come personalizzare intervalli di date per il tuo reporting e come salvare un modello di reporting per utilizzi futuri."'
+feature: Rapporti
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
+role: Business Practices, amministratore
 translation-type: tm+mt
-source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '96'
+ht-degree: 96%
 
 ---
 
