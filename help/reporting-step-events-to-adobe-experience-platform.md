@@ -1,18 +1,19 @@
 ---
 title: 'Reporting degli eventi delle fasi del percorso ad Adobe Experience Platform '
-description: Il video seguente illustra cosa sono gli eventi delle fasi del percorso, quali fasi di dati vengono create automaticamente in Experience Platform e come esplorarle.
-feature: Journey Orchestration
+description: Scopri cosa sono gli eventi delle fasi del percorso, quali sono le fasi dei dati e come esplorarle.
+feature: Percorsi
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
+role: Business Practices, amministratore
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 78%
 
 ---
 
