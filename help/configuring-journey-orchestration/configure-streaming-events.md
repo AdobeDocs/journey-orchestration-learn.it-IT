@@ -1,6 +1,6 @@
 ---
 title: Configurare eventi di streaming per Adobe Journey Orchestration
-description: '"Scopri come configurare schemi e set di dati XDM per gli eventi di Journey Orchestration, definire un evento in Journey Orchestration e configurare i sistemi di origine per lo streaming degli eventi"'
+description: '"Scopri come configurare schemi e set di dati XDM per eventi di Journey Orchestration, definire un evento in Journey Orchestration e configurare i sistemi di origine per lo streaming degli eventi"'
 feature: Origini dati, eventi, schemi
 topics: Events
 kt: 3731
@@ -20,12 +20,12 @@ ht-degree: 25%
 
 # Configurare eventi di streaming
 
-[!UICONTROL Journey Orchestration] ascolta gli eventi e orchestra le migliori azioni successive nel percorso del cliente in base a questi eventi. Un evento può riferirsi a:
+[!UICONTROL Journey Orchestration] ascolta gli eventi e orchestra le migliori azioni successive all’interno del percorso del cliente in base a tali eventi. Un evento può riferirsi a:
 
 * le azioni dirette di un individuo (ad esempio, ha acquistato un prodotto, ha visitato un negozio o ha abbandonato un carrello online), oppure
 * Qualcosa che è successo che è collegato all&#39;individuo (ad esempio, quando hanno raggiunto 10.000 punti fedeltà)
 
-[!UICONTROL Journey Orchestration] vengono inviati  [!UICONTROL XDM experience events] ad Adobe Experience Platform tramite  [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] gli eventi vengono  [!UICONTROL XDM experience events] inviati a Adobe Experience Platform tramite  [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ ht-degree: 25%
 >* [Acquisizione dei dati in streaming](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-Per comprendere gli esempi utilizzati nel video, devi anche acquisire familiarità con i seguenti servizi Adobe Experience Platform:
+Per comprendere gli esempi utilizzati nel video, è necessario acquisire familiarità con i seguenti servizi Adobe Experience Platform:
 >
 >* [Adobe Experience Platform Mobile SDK - Avvio](https://docs.adobe.com/content/help/it-IT/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.translate.html)
