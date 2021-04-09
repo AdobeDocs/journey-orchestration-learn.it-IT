@@ -1,6 +1,6 @@
 ---
 title: Analizzare un percorso tramite strumenti di reporting
-description: '"Scopri come passare al reporting per il tuo percorso, come personalizzare intervalli di date per il tuo reporting e come salvare un modello di reporting per utilizzi futuri."'
+description: “Scopri come passare alle funzioni di reporting per il percorso, personalizzare gli intervalli di date per il rapporto e salvare un modello di la generazione dei rapporti da riutilizzare in un secondo tempo.”
 feature: Rapporti
 topics: Introduction
 kt: 2777
@@ -8,15 +8,15 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practices, amministratore
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+role: Professionista, Amministratore
+exl-id: f6f13fba-d815-424f-86e5-918577609882
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
-
 
 # Analizzare un percorso tramite strumenti di reporting
 
