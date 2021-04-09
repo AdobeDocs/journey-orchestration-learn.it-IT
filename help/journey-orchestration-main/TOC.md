@@ -10,11 +10,11 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/journey-orchestration-l
 getting-started-title: Centro Risorse
 getting-started-url: https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 96%
 + Creare un percorso {#building-a-journey}
    + [Creazione di un percorso](/help/building-a-journey/creating-a-journey.md)
    + [Passaggio a un altro percorso](/help/building-a-journey/jumping-to-another-journey.md)
-   + [Aggiorna azione profilo](/help/building-a-journey/update-profile-action.md)
+   + [Azione Aggiorna profilo](/help/building-a-journey/update-profile-action.md)
 + [Convalidare e pubblicare un percorso](/help/validate-and-publish-a-journey.md)
 + [Analisi di un percorso mediante strumenti di reporting](/help/analyze-a-journey-via-reporting-tools.md)
 + [Reporting degli eventi delle fasi del percorso a Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
