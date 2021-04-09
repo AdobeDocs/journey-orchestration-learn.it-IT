@@ -2,15 +2,15 @@
 title: Tutorial su Journey Orchestration - Panoramica
 description: Journey Orchestration consente di generare casi d’uso di orchestrazione in tempo reale sfruttando i dati contestuali archiviati in eventi o origini dati
 products: Journey orchestration
-role: Business Practices, amministratore
-translation-type: tm+mt
-source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+role: Professionista, Amministratore
+exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
-
 
 # Panoramica
 
@@ -18,7 +18,7 @@ ht-degree: 97%
 
 ## Novità
 
-* **[Aggiorna azione profilo](/help/building-a-journey/update-profile-action.md)**
+* **[Azione Aggiorna profilo](/help/building-a-journey/update-profile-action.md)**
 * **[Passaggio a un altro percorso](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *Scopri come indirizzare gli utenti da un percorso all’altro.*
@@ -73,4 +73,3 @@ ht-degree: 97%
 
 * [Centro Risorse Journey Orchestration](https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html)
 * [Tutorial su Adobe Experience Platform](https://docs.adobe.com/content/help/it-IT/platform-learn/tutorials/overview.html)
-
