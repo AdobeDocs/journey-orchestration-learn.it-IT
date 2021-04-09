@@ -1,6 +1,6 @@
 ---
 title: Comprensione di Journey Orchestration
-description: '"Comprendere il concetto di Journey Orchestration, i tipi di casi d’uso che consente e gli elementi chiave del suo funzionamento."'
+description: “Comprendere il concetto di Journey Orchestration, i tipi di casi d’uso che consente e gli elementi chiave del suo funzionamento.”
 feature: Panoramica
 topics: Introduction
 kt: 2773
@@ -8,12 +8,12 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Business Practices, amministratore
-translation-type: tm+mt
+role: Professionista, Amministratore
+translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '330'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
