@@ -1,22 +1,22 @@
 ---
 title: Creare un percorso con Adobe Journey Orchestration
-description: '"Scopri come creare un nuovo percorso, inizia con un evento, utilizza i controlli di orchestrazione per controllare il flusso e la tempistica di un percorso e utilizza le azioni per interagire con i punti del percorso."'
-feature: Percorsi
+description: “Scopri come creare un nuovo percorso, iniziare con un evento, utilizzare i controlli di orchestrazione per controllare il flusso e la tempistica di un percorso e utilizzare le azioni per coinvolgere il cliente a specifici punti del percorso.”
+feature: Journeys
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practices, amministratore
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+role: Professionista, Amministratore
+exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
-
 
 # Creare un percorso
 
