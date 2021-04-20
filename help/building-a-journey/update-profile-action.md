@@ -1,10 +1,10 @@
 ---
 title: Azione Aggiorna profilo
 description: Scopri come aggiornare un profilo Adobe Experience Platform esistente con informazioni provenienti da un evento o un’origine dati oppure utilizzando un valore specifico.
-feature: Azioni
+feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
-role: Professionista
+role: Business Practitioner
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09

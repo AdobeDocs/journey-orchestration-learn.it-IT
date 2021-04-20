@@ -1,14 +1,14 @@
 ---
 title: Utilizzo degli eventi di qualificazione dei segmenti
 description: Scopri dove configurare i segmenti e come configurare un evento di qualificazione dei segmenti in un percorso.
-feature: Segmenti, Eventi
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: Business Practices, amministratore
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

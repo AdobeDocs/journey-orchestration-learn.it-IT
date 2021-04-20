@@ -8,7 +8,7 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-role: Professionista, Amministratore
+role: Business Practitioner, Administrator
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829

@@ -1,14 +1,14 @@
 ---
 title: Configurare origini dati per Adobe Journey Orchestration
 description: '"Scopri come configurare Experience Platform Data Source, configurare un’origine dati esterna e trovare e utilizzare i dati in un percorso."'
-feature: Origini dati
+feature: Data Sources
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Amministratore
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt

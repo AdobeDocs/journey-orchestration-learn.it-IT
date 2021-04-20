@@ -1,14 +1,14 @@
 ---
 title: Configurare eventi di streaming per Adobe Journey Orchestration
 description: '"Scopri come configurare schemi e set di dati XDM per eventi di Journey Orchestration, definire un evento in Journey Orchestration e configurare i sistemi di origine per lo streaming degli eventi"'
-feature: Origini dati, eventi, schemi
+feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Amministratore
+role: Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

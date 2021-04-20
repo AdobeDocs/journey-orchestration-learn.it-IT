@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: Professionista, Amministratore
+role: Business Practitioner, Administrator
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
