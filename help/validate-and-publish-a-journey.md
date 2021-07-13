@@ -1,30 +1,29 @@
 ---
-title: Convalidare e pubblicare un percorso
-description: '"Scopri come verificare il percorso prima della pubblicazione, utilizzando i profili di test. "'
-feature: Journeys
+title: Convalidare e pubblicare un Percorso
+description: '"Scopri come testare il percorso prima della pubblicazione utilizzando i profili di test. "'
+feature: Percorsi
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 28%
+source-wordcount: '109'
+ht-degree: 30%
 
 ---
 
-
 # Convalidare e pubblicare un percorso
 
-Puoi testare il percorso prima della pubblicazione utilizzando i profili di test. Questo consente di analizzare il flusso di singoli utenti nel percorso e di risolvere eventuali problemi prima della pubblicazione.
+Puoi testare il percorso prima della pubblicazione utilizzando i profili di test. Questo consente di analizzare il flusso di singoli utenti all’interno del percorso e di risolvere eventuali problemi prima della pubblicazione.
 
 Il video seguente spiega come:
 
-* Abilitare e utilizzare **[!UICONTROL test mode]** per convalidare un percorso
+* Abilita e utilizza **[!UICONTROL test mode]** per convalidare un percorso
 * Pubblicare un percorso e gestirne lo stato
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
