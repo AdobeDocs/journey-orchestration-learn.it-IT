@@ -1,24 +1,23 @@
 ---
-title: Configurare le azioni per Adobe Journey Orchestration
-description: Scopri come configurare un’azione per Journey Orchestration e come utilizzarla in un percorso.
-feature: Actions
+title: Configurare azioni per Journey Orchestration di Adobe
+description: Scopri come configurare un’azione per il Journey Orchestration e come utilizzarla in un percorso.
+feature: Azioni
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+role: Admin
+exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 13%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
-
-# Configura [!UICONTROL custom actions]
+# Configurare gli [!UICONTROL custom actions]
 
 [!UICONTROL Actions] sono il punto di contatto  [!UICONTROL Journey Orchestration] attraverso il quale puoi offrire esperienze personalizzate in tempo reale a singoli utenti. Possono includere canali di messaggistica tradizionali, come notifiche push, e-mail o SMS, o qualsiasi altro mezzo di coinvolgimento digitale utilizzato nella tua azienda.
 
