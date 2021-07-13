@@ -1,18 +1,17 @@
 ---
 title: Comprensione di Journey Orchestration
-description: “Comprendere il concetto di Journey Orchestration, i tipi di casi d’uso che consente e gli elementi chiave del suo funzionamento.”
-feature: Overview
+description: '"Comprendi il concetto di Journey Orchestration, i tipi di casi di utilizzo consentiti e gli elementi chiave del funzionamento di Journey Orchestration."'
+feature: Panoramica
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Business Practitioner, Administrator
-translation-type: ht
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: ht
-source-wordcount: '330'
+role: User, Admin
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '327'
 ht-degree: 100%
 
 ---
@@ -58,4 +57,4 @@ Principali fasi di preparazione per generare percorsi:
 * [Tutorial su Adobe Experience Platform](https://docs.adobe.com/content/help/it-IT/platform-learn/tutorials/overview.html)
 * [Come trovare la guida con Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - Avvio](https://docs.adobe.com/content/help/it-IT/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
-* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.translate.html)
+* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.html)
