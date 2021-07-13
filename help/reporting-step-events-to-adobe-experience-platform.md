@@ -1,22 +1,21 @@
 ---
-title: 'Reporting degli eventi delle fasi del percorso ad Adobe Experience Platform '
-description: Scopri cosa sono gli eventi delle fasi del percorso, quali sono le fasi dei dati e come esplorarle.
-feature: Journeys
+title: 'Invio di rapporti sugli eventi dei passaggi del percorso ad Adobe Experience Platform '
+description: Scopri cosa sono gli eventi dei passaggi del percorso, quali sono i passaggi dei dati e come esplorarli.
+feature: Percorsi
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 78%
+source-wordcount: '92'
+ht-degree: 82%
 
 ---
-
 
 # Reporting degli eventi ad [!UICONTROL Adobe Experience Platform ]
 
