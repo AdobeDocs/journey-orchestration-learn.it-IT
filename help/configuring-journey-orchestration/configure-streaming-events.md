@@ -1,22 +1,21 @@
 ---
 title: Configurare eventi di streaming per Adobe Journey Orchestration
-description: '"Scopri come configurare schemi e set di dati XDM per eventi di Journey Orchestration, definire un evento in Journey Orchestration e configurare i sistemi di origine per lo streaming degli eventi"'
-feature: Data Sources, Events, Schemas
+description: '"Scopri come configurare schemi e set di dati XDM per gli eventi di Journey Orchestration, definire un evento in Journey Orchestration e configurare i sistemi sorgente per lo streaming degli eventi"'
+feature: Origini dati, eventi, schemi
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: Admin
+exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 25%
+source-wordcount: '255'
+ht-degree: 35%
 
 ---
-
 
 # Configurare eventi di streaming
 
@@ -39,7 +38,7 @@ ht-degree: 25%
 Per comprendere gli esempi utilizzati nel video, è necessario acquisire familiarità con i seguenti servizi Adobe Experience Platform:
 >
 >* [Adobe Experience Platform Mobile SDK - Avvio](https://docs.adobe.com/content/help/it-IT/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.translate.html)
+>* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.html)
 
 
 ## Come configurare [!UICONTROL streaming events]
