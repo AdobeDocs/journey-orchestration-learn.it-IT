@@ -1,7 +1,7 @@
 ---
 title: Utilizzo degli eventi di qualificazione dei segmenti
 description: Scopri dove configurare i segmenti e come configurare un evento di qualificazione dei segmenti in un percorso.
-feature: Segmenti, Eventi
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '135'
+ht-degree: 61%
 
 ---
 
 # Utilizzo degli eventi di qualificazione dei segmenti
 
-Un evento di qualificazione dei segmenti consente al percorso di monitorare le entrate e le uscite dei profili nei segmenti Adobe Experience Platform per consentire a singoli utenti di entrare o proseguire in un percorso.
+Un evento di qualificazione dei segmenti consente al percorso di ascoltare le entrate e le uscite dei profili nei segmenti Adobe Experience Platform. Questo tipo di evento viene utilizzato per consentire ai singoli utenti di entrare o proseguire in un percorso.
 
 Ecco alcuni casi di utilizzo:
 
