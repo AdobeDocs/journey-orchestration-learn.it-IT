@@ -1,26 +1,26 @@
 ---
 title: Tutorial su Journey Orchestration - Panoramica
-description: Il Journey Orchestration consente di generare casi d’uso di orchestrazione in tempo reale utilizzando dati contestuali archiviati in eventi o origini dati
+description: Journey Orchestration consente di applicare l’orchestrazione in tempo reale per diversi casi d’uso, sfruttando i dati contestuali provenienti da eventi o origini dati.
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # Panoramica
 
-[!UICONTROL Journey Orchestration] è un servizio applicativo integrato con Adobe Experience Platform. Consente di generare casi di utilizzo di orchestrazione in tempo reale utilizzando dati contestuali archiviati in eventi o origini dati.
+[!UICONTROL Journey Orchestration] è un servizio applicativo integrato con Adobe Experience Platform. Consente di applicare l’orchestrazione in tempo reale per diversi casi d’uso, sfruttando i dati contestuali provenienti da eventi o origini dati.
 
 ## Novità
 
 * **[Aggiornare il profilo](/help/building-a-journey/update-profile-action.md)**
-* **[Passaggio a un altro percorso](/help/building-a-journey/jumping-to-another-journey.md)**
+* **[Passare a un altro percorso](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
-   *Scopri come invogliare gli utenti a passare da un percorso all’altro.*
+   *Scopri come invogliare i singoli utenti a passare da un percorso all’altro.*
 
 ## Scelte del personale
 
@@ -28,15 +28,15 @@ ht-degree: 62%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="Comprensione di Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Journey Orchestration: cos’è e come funziona" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Comprensione di Journey Orchestration</strong>
+    <strong>Journey Orchestration: cos’è e come funziona</strong>
     </a>
     </div>
     <p>
-    <em>Comprendi il concetto di Journey Orchestration, i tipi di casi di utilizzo consentiti e gli elementi chiave del funzionamento di Journey Orchestration.</em>
+    <em>Comprendi il concetto di Journey Orchestration, possibili casi d'uso e gli elementi chiave del suo funzionamento.</em>
     <p>
   </td>
   <td>
@@ -49,7 +49,7 @@ ht-degree: 62%
     </a>
     </div>
     <p>
-    <em>Scopri come creare un percorso, inizia con un evento, utilizza le orchestrazioni per controllare il flusso e la tempistica di un percorso e utilizza le azioni per interagire con i punti del percorso.</em>
+    <em>Scopri come creare un nuovo percorso, iniziare da un evento, utilizzare le orchestrazioni per controllare il flusso e la tempistica di un percorso e utilizzare le azioni per interagire con gli utenti lungo il percorso.</em>
     <p>
   </td>
   <td>
@@ -71,4 +71,4 @@ ht-degree: 62%
 ## Risorse aggiuntive
 
 * [Centro Risorse Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=it)
-* [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)
