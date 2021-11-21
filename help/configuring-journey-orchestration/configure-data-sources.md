@@ -1,7 +1,7 @@
 ---
 title: Configura origini dati per Adobe Journey Orchestration
 description: '"Scopri come configurare Experience Platform Data Source, configurare un’origine dati esterna e trovare e utilizzare i dati in un percorso."'
-feature: 'Origini dati '
+feature: Data Sources
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
@@ -12,12 +12,12 @@ role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 16%
+source-wordcount: '141'
+ht-degree: 14%
 
 ---
 
-# Configurare origini dati
+# Configurare le origini dati
 
 [!UICONTROL Journey Orchestration] consente di connettersi a Adobe Experience Platform o ad altre origini dati di terze parti per recuperare informazioni aggiuntive che possono essere utilizzate in un percorso per:
 
@@ -34,5 +34,5 @@ Il video seguente spiega come: Configura un’origine dati di Experience Platfor
 
 ## Risorse aggiuntive
 
-* [Centro Risorse di Journey Orchestration](https://docs.adobe.com/content/help/it-IT/journeys/using/journey-orchestration-home.html):
+* [Centro Risorse di Journey Orchestration](https://docs.adobe.com/content/help/it/journeys/using/journey-orchestration-home.html):
    * [Informazioni sulle origini dati](https://docs.adobe.com/content/help/en/journeys/using/data-source-journeys/about-data-sources.html)

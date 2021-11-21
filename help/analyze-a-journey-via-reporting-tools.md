@@ -11,13 +11,13 @@ activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
 ---
 
-# Analizzare un percorso tramite strumenti di reporting
+# Analizzare un percorso con strumenti di reporting
 
 Il video seguente spiega come:
 
