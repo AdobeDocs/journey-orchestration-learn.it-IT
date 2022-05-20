@@ -1,6 +1,6 @@
 ---
 title: 'Journey Orchestration: cos’è e come funziona'
-description: '"Comprendi il concetto di Journey Orchestration, possibili casi d''uso e gli elementi chiave del suo funzionamento."'
+description: Comprendi il concetto di Journey Orchestration, possibili casi d'uso e gli elementi chiave del suo funzionamento.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 100%
 
 ---
 
-
 # Comprensione di [!UICONTROL Journey Orchestration]
 
-## Introduzione a [!UICONTROL Journey Orchestration]
-
 [!UICONTROL Journey Orchestration] consente di applicare l’orchestrazione in tempo reale per diversi casi d’uso, sfruttando i dati contestuali provenienti da eventi o origini dati.
+
+## Introduzione a [!UICONTROL Journey Orchestration]
 
 [!UICONTROL Journey Orchestration] è un servizio applicativo integrato con Adobe Experience Platform. Fornisce un ecosistema intelligente e aperto per attivare tutti i dati dinamici pertinenti attraverso un impegno scalabile basato su eventi, su qualsiasi canale richiesto dalla tua azienda, dal marketing alle operazioni ai servizi. [!UICONTROL Journey Orchestration] è in grado di sfruttare qualsiasi dato proveniente da Adobe Experience Platform e da qualsiasi sistema di consegna esterno, per creare e consegnare esperienze di grande efficacia.
 
@@ -58,4 +58,3 @@ Principali fasi di preparazione per generare percorsi:
 * [Assistenza per Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - Avvio](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=it)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=it)
-
