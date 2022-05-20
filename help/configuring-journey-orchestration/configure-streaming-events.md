@@ -10,10 +10,10 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 35%
+source-wordcount: '246'
+ht-degree: 26%
 
 ---
 
@@ -21,23 +21,23 @@ ht-degree: 35%
 
 [!UICONTROL Journey Orchestration] ascolta gli eventi e orchestra le migliori azioni successive all’interno del percorso del cliente in base a tali eventi. Un evento può riferirsi a:
 
-* le azioni dirette di un individuo (ad esempio, ha acquistato un prodotto, ha visitato un negozio o ha abbandonato un carrello online), oppure
-* Qualcosa che è successo che è collegato all&#39;individuo (ad esempio, quando hanno raggiunto 10.000 punti fedeltà)
+* le azioni dirette di un individuo (ad esempio, ha acquistato un prodotto, ha visitato un negozio o ha abbandonato un carrello acquisti online), oppure
+* È successo qualcosa che è collegato all&#39;individuo (per esempio, hanno raggiunto 10.000 punti fedeltà)
 
 [!UICONTROL Journey Orchestration] gli eventi [!UICONTROL XDM experience events] che vengono inviati a Adobe Experience Platform tramite [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
->Sarà necessario avere familiarità con:
+>Devi avere familiarità con:
 >
->* [Experience Data Model (XDM)](https://docs.adobe.com/content/help/it-IT/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [Come comporre gli schemi XDM per gli eventi di esperienza](https://docs.adobe.com/content/help/it-IT/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
->* [Acquisizione dei dati in streaming](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
+>* [Experience Data Model (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=it)
+>* [Come comporre gli schemi XDM per gli eventi di esperienza](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=it)
+>* [Acquisizione dei dati in streaming](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en)
 >
 >Per comprendere gli esempi utilizzati nel video, è necessario acquisire familiarità con i seguenti servizi Adobe Experience Platform:
 >
->* [Adobe Experience Platform Mobile SDK - Avvio](https://docs.adobe.com/content/help/it-IT/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/it-IT/places/using/home.html)
+>* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=it)
 
 
 ## Come configurare [!UICONTROL streaming events]
@@ -50,7 +50,4 @@ Il video seguente spiega come:
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
-## Risorse aggiuntive
-
-* [Centro Risorse di Journey Orchestration](https://docs.adobe.com/content/help/it/journeys/using/journey-orchestration-home.html):
-   * [Informazioni sugli eventi](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
+Per ulteriori informazioni, consulta la sezione [Informazioni sugli eventi](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) della documentazione del prodotto.

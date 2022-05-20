@@ -10,10 +10,10 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 61%
+source-wordcount: '136'
+ht-degree: 48%
 
 ---
 
@@ -30,8 +30,4 @@ Questo video fornisce una breve introduzione su dove configurare i segmenti e co
 
 >[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
-## Risorse aggiuntive
-
-Documentazione:
-
-* [Eventi di qualificazione dei segmenti](https://docs.adobe.com/content/help/it-IT/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)
+Per ulteriori informazioni, consulta [Eventi di qualificazione dei segmenti](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
