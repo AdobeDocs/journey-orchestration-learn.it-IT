@@ -12,9 +12,9 @@ team: PM
 role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Scopri come utilizzare l’attività di salto per spostare i clienti da un perco
 
 >[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
-SFo ulteriori informazioni, visita [documentazione del prodotto](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=it#building-journeys).
+Per ulteriori informazioni, visita la [documentazione del prodotto](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=it#building-journeys).
