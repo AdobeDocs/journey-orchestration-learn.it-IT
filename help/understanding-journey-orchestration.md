@@ -1,6 +1,6 @@
 ---
 title: 'Journey Orchestration: cos’è e come funziona'
-description: Comprendi il concetto di Journey Orchestration, possibili casi d'uso e gli elementi chiave del suo funzionamento.
+description: Comprendi il concetto di Journey Orchestration, possibili casi d’uso e gli elementi chiave del suo funzionamento.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -11,9 +11,9 @@ activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '323'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ Principali fasi di preparazione per generare percorsi:
 
 1. [Configurare eventi di streaming](/help/configuring-journey-orchestration/configure-streaming-events.md): questa configurazione è obbligatoria, in quanto [!UICONTROL Journey Orchestration] è progettato per ascoltare gli eventi.
 1. [Configurare le origini dati](/help/configuring-journey-orchestration/configure-data-sources.md): questa configurazione non è necessaria se i percorsi sfruttano solo i dati locali provenienti dal payload di un evento.
-1. [Configurare azioni personalizzate](/help/configuring-journey-orchestration/configure-actions.md): Obbligatorio se desideri utilizzare un servizio di qualsiasi provider di terze parti che può essere chiamato tramite un [!DNL REST API] con payload in formato JSON
+1. [Configurare azioni personalizzate](/help/configuring-journey-orchestration/configure-actions.md): necessario se si desidera utilizzare un servizio di qualsiasi provider di terze parti che può essere chiamato tramite un [!DNL REST API] con un payload in formato JSON
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ Principali fasi di preparazione per generare percorsi:
 * [Centro Risorse Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=it)
 * [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)
 * [Assistenza per Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK - Avvio](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+* [Adobe Experience Platform Mobile SDK - Avvio](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=it)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=it)
