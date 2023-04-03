@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 29%
@@ -48,6 +48,6 @@ Il video seguente spiega come:
 * Definire un evento in [!UICONTROL Journey Orchestration]
 * Configurare i sistemi di origine per lo streaming degli eventi
 
->[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la sezione [Informazioni sugli eventi](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) della documentazione del prodotto.
