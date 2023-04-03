@@ -10,9 +10,9 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 2f38aa89396944fa6f77ea6b875293cf295866ff
-workflow-type: tm+mt
-source-wordcount: '79'
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -22,5 +22,5 @@ ht-degree: 100%
 
 Scopri come creare un nuovo percorso, iniziare con un evento, utilizzare controlli di orchestrazione per controllare il flusso e la tempistica di un percorso e utilizzare le azioni per interagire con i punti del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&learn=on)
 
