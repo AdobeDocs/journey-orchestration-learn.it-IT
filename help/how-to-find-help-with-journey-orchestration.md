@@ -1,6 +1,6 @@
 ---
 title: Assistenza per Journey Orchestration
-description: Scopri dove puoi trovare rapidamente le risposte alle tue domande [!UICONTROL Journey Orchestration], come contattare il supporto e dove registrare i ticket di supporto e come fornirci un feedback.
+description: Scopri dove puoi trovare rapidamente le risposte alle tue domande [!UICONTROL Journey Orchestration], come contattare il supporto, dove registrare i ticket di supporto e come fornirci un feedback.
 feature: Overview
 topics: Help and Support
 kt: 4019
@@ -19,6 +19,6 @@ ht-degree: 17%
 
 # Come trovare la guida con [!UICONTROL Journey Orchestration]
 
-Scopri dove puoi trovare rapidamente le risposte alle tue domande [!UICONTROL Journey Orchestration], come contattare il supporto e dove registrare i ticket di supporto e come fornirci un feedback.
+Scopri dove puoi trovare rapidamente le risposte alle tue domande [!UICONTROL Journey Orchestration], come contattare il supporto, dove registrare i ticket di supporto e come fornirci un feedback.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12&learn=on)

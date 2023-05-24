@@ -19,7 +19,7 @@ ht-degree: 48%
 
 # Utilizzo degli eventi di qualificazione dei segmenti
 
-Un evento di qualificazione dei segmenti consente al percorso di ascoltare le entrate e le uscite dei profili nei segmenti Adobe Experience Platform. Questo tipo di evento viene utilizzato per consentire ai singoli utenti di entrare o proseguire in un percorso.
+Un evento di qualificazione dei segmenti consente al percorso di ascoltare le entrate e le uscite dei profili nei segmenti Adobe Experience Platform. Questo tipo di evento viene utilizzato per fare in modo che singoli utenti entrino o avanzino in un percorso.
 
 Ecco alcuni casi di utilizzo:
 

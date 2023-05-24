@@ -1,6 +1,6 @@
 ---
 title: Convalidare e pubblicare un Percorso
-description: Scopri come verificare il percorso prima della pubblicazione utilizzando i profili di test.
+description: Scopri come verificare il percorso prima della pubblicazione, utilizzando i profili di test.
 feature: Journeys
 topics: Test and publish a journey
 kt: 2778
@@ -19,9 +19,9 @@ ht-degree: 7%
 
 # Convalidare e pubblicare un percorso
 
-Scopri come verificare il percorso prima della pubblicazione utilizzando i profili di test.
+Scopri come verificare il percorso prima della pubblicazione, utilizzando i profili di test.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la documentazione del prodotto . [Verifica del percorso](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
+Per ulteriori informazioni su, consulta la documentazione del prodotto. [Verifica del percorso](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
 e [Pubblicazione del percorso](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)

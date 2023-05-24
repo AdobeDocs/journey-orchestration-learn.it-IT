@@ -1,6 +1,6 @@
 ---
 title: Invio di rapporti sugli eventi dei passaggi del percorso ad Adobe Experience Platform
-description: Scopri cosa sono gli eventi dei passaggi del percorso e i passaggi dei dati e come esplorarli.
+description: Scopri cosa sono gli eventi dei passaggi di percorso e i passaggi di dati e come esplorarli.
 feature: Journeys
 topics: Introduction
 kt: 5488
@@ -19,8 +19,8 @@ ht-degree: 20%
 
 # Reporting degli eventi ad [!UICONTROL Adobe Experience Platform ]
 
-Scopri cosa sono gli eventi dei passaggi del percorso e i passaggi dei dati e come esplorarli.
+Scopri cosa sono gli eventi dei passaggi di percorso e i passaggi di dati e come esplorarli.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&learn=on)
 
-Vedi [Panoramica sulla condivisione delle fasi del percorso](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) per ulteriori informazioni.
+Consulta [Panoramica sulla condivisione delle fasi del percorso](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) per ulteriori informazioni.
