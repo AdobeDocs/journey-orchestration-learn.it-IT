@@ -1,5 +1,5 @@
 ---
-title: Aggiornare il profilo
+title: Azione Aggiorna profilo
 description: Scopri come aggiornare un profilo Adobe Experience Platform esistente con informazioni provenienti da un evento o un’origine dati oppure utilizzando un valore specifico.
 feature: Actions
 jira: KT-7313
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ---
 
-# Aggiornare il profilo
+# Azione Aggiorna profilo
 
 Scopri come aggiornare un profilo Adobe Experience Platform esistente con informazioni provenienti da un evento o un’origine dati oppure utilizzando un valore specifico.
 
