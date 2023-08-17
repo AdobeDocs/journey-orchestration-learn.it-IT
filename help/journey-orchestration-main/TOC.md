@@ -29,7 +29,7 @@ ht-degree: 100%
 + Creare un percorso {#building-a-journey}
    + [Creare un percorso](/help/building-a-journey/creating-a-journey.md)
    + [Passare a un altro percorso](/help/building-a-journey/jumping-to-another-journey.md)
-   + [Aggiornare il profilo](/help/building-a-journey/update-profile-action.md)
+   + [Azione Aggiorna profilo](/help/building-a-journey/update-profile-action.md)
 + [Convalidare e pubblicare un percorso](/help/validate-and-publish-a-journey.md)
 + [Analisi di un percorso mediante strumenti di reporting](/help/analyze-a-journey-via-reporting-tools.md)
 + [Invio di rapporti sugli eventi dei passaggi del percorso ad Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
