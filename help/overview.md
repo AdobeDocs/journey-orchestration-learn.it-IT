@@ -5,9 +5,9 @@ products: Journey orchestration
 feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
+source-git-commit: fd7c346c9159ec2646a0887781574a32bba08a7a
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '174'
 ht-degree: 98%
 
 ---
@@ -15,16 +15,6 @@ ht-degree: 98%
 # Tutorial di Journey Orchestration
 
 [!UICONTROL Journey Orchestration] è un servizio applicativo integrato con Adobe Experience Platform. Consente di applicare l’orchestrazione in tempo reale per diversi casi d’uso, sfruttando i dati contestuali provenienti da eventi o origini dati.
-
-<div id="whats-new-section">
-
-## Novità
-
-* **[Azione Aggiorna profilo](/help/building-a-journey/update-profile-action.md)**
-* **[Passare a un altro percorso](/help/building-a-journey/jumping-to-another-journey.md)**
-  *Scopri come invogliare i singoli utenti a passare da un percorso all’altro.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
